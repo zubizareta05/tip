@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-A video walkthrough is in the repository
+A video walkthrough is in the repository or you can watch it here https://imgur.com/lYnLehN
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
